@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f1bd8f5-af5a-44a0-884a-10c9363d4fce" name="Changes" comment="Final edit Adapter design Pattern">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EnemyAttacker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EnemyRobot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EnemyRobotAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EnemyTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TestEnemyAttackers.java" afterDir="false" />
+    <list default="true" id="0f1bd8f5-af5a-44a0-884a-10c9363d4fce" name="Changes" comment="Final edit Adapter Design Pattern">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +59,16 @@
       <workItem from="1668245886400" duration="7320000" />
       <workItem from="1668277971553" duration="140000" />
       <workItem from="1668278128721" duration="1039000" />
+      <workItem from="1668307421561" duration="640000" />
     </task>
+    <task id="LOCAL-00001" summary="Final edit Adapter Design Pattern">
+      <created>1668307584741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668307584741</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +87,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final edit Adapter design Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final edit Adapter design Pattern" />
+    <MESSAGE value="Final edit Adapter Design Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final edit Adapter Design Pattern" />
   </component>
 </project>
